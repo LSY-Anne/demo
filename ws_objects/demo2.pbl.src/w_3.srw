@@ -1,10 +1,10 @@
-﻿$PBExportHeader$w_1.srw
+﻿$PBExportHeader$w_3.srw
 forward
-global type w_1 from window
+global type w_3 from window
 end type
 end forward
 
-global type w_1 from window
+global type w_3 from window
 integer width = 3378
 integer height = 1408
 boolean titlebar = true
@@ -17,14 +17,14 @@ long backcolor = 67108864
 string icon = "AppIcon!"
 boolean center = true
 end type
-global w_1 w_1
+global w_3 w_3
 
-event open;//hyutg
+event open;//附件
 end event
 
-on w_1.create
+on w_3.create
 end on
 
-on w_1.destroy
+on w_3.destroy
 end on
 
