@@ -20,6 +20,7 @@ end type
 global w_1 w_1
 
 event open;//tgf
+//kk
 end event
 
 on w_1.create
