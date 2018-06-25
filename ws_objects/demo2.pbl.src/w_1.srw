@@ -19,11 +19,8 @@ boolean center = true
 end type
 global w_1 w_1
 
-//<<<<<<< HEAD
 event open;//hyutgh
-//=======
-event open;//hyut
-//>>>>>>> master
+//io
 end event
 
 on w_1.create
