@@ -20,7 +20,7 @@ end type
 global w_1 w_1
 
 event open;//hyutgh
-//iu
+//i
 end event
 
 on w_1.create
